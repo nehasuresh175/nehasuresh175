@@ -1,52 +1,27 @@
-<div align="center">
+# 💫 About Me:
+I build and configure ServiceNow solutions with a focus on reliable workflows, efficient platform experiences, and user-centered problem solving.<br>I am a B.Tech Information Technology student specializing in ServiceNow, with a ServiceNow Certified Application Developer (CAD) certification and hands-on experience building and configuring ServiceNow applications and workflows.<br>My current focus areas include:<br>• ServiceNow Administration and platform configuration<br>• ITSM and service management workflows<br>• Service Catalog and request management<br>• Flow Designer and workflow automation<br>• Business Rules, Client Scripts, UI Policies and Notifications<br>• JavaScript and ServiceNow scripting<br>• Application development and platform customization<br>• REST/API-based integrations and enterprise automation<br>I also bring a background in UI/UX design and user research. I use this experience to approach enterprise platforms from both sides: understanding how the system works technically and how users experience it.<br>I have developed ServiceNow projects that demonstrate my ability to translate business requirements into practical platform solutions, including automated request workflows, catalog-based processes and notifications. My ServiceNow portfolio showcases these implementations and the technical decisions behind them.<br>My goal is to begin my career in ServiceNow Administration, Application Development or ITSM, where I can contribute to enterprise platform configuration, workflow automation and continuous improvement while continuing to deepen my ServiceNow expertise.<br>Core Skills: ServiceNow | ITSM | ServiceNow Administration | Application Development | Flow Designer | Service Catalog | JavaScript | Workflow Automation | REST APIs | UI/UX | Figma<br>Open to entry-level ServiceNow opportunities, internships and roles involving ServiceNow administration, development and ITSM.<br><br>
 
-# Hi, I'm [Neha Gopi Suresh Kumar]
 
-### ServiceNow Developer | CSA & CAD Certified | Information Technology Engineering Student
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nehasuresh175) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neha Gopi Suresh Kumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/NEHA) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Neha Gopi Suresh Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k23it35@kiot.ac.in) 
 
-**Building scalable ServiceNow solutions through platform development, ITSM, CMDB, ITAM, workflow automation, and custom application development.**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nehasuresh175&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nehasuresh175&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nehasuresh175&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="[www.linkedin.com/in/neha-gopi-suresh-kumar-704b982a6]">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/[nehasuresh175]">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="[https://neha-servicenow.netlify.app/]">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nehasuresh175&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=850&lines=ServiceNow+Developer;CSA+Certified;CAD+Certified;ITSM+%26+Platform+Development;CMDB+%26+IT+Asset+Management;Workflow+Automation;Custom+Scoped+Applications;Building+Enterprise+Service+Management+Solutions" alt="Typing Animation"/>
-</a>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nehasuresh175&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=nehasuresh175&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About Me
-
-I am an **Information Technology Engineering student** specializing in **ServiceNow development and platform capabilities**, with a strong interest in enterprise service management, workflow automation, and application development.
-
-I hold the **ServiceNow Certified System Administrator (CSA)** and **Certified Application Developer (CAD)** certifications, demonstrating knowledge of ServiceNow platform administration, configuration, application development, data structures, security concepts, and core platform capabilities.
-
-My ServiceNow interests and project experience span:
-
-- IT Service Management (ITSM)
-- Configuration Management Database (CMDB)
-- IT Asset Management (ITAM)
-- Service Catalog and request fulfillment
-- Workflow and process automation
-- Scoped application development
-- Platform configuration and application architecture
-- Business-oriented technical solution design
-
-I also have supporting experience and exposure to **UI/UX design, Service now,and general software development**. This combination helps me approach ServiceNow solutions from both a **technical implementation** and **user-experience perspective**.
-
-My approach is centered on understanding business requirements and translating them into structured, maintainable, and user-oriented technical solutions.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
